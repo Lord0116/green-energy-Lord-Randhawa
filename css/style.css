@@ -94,7 +94,7 @@ a:hover {
   justify-content: center;
   align-items: center;
   background: linear-gradient(rgba(0, 0, 0, -1.7), rgba(0, 0, 0, 1)),
-    url("../img/mast-head.jpg") center/cover no-repeat;
+    url(../img/mast-head.jpg) center/cover no-repeat;
   background-size: cover;
   background-position: center top;
   width: 100%;
